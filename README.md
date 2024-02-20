@@ -1,6 +1,6 @@
 # leetcode
 
-CHECJ "src" folder
+CHECK "src" folder
 
 https://leetcode.com/Montello/
 
